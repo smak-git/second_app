@@ -1,4 +1,7 @@
 == README
+# Ruby on Rails - Second application
+
+This is the second app being made by smak
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
